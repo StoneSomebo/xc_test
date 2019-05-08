@@ -1,0 +1,22 @@
+{
+  "name": "xc_test",
+  "version": "0.1.0",
+  "summary": "A short description of xc_test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1135447344@qq.com/xc_test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1135447344@qq.com": "zhoujibin2014@xiaochuankeji.cn"
+  },
+  "source": {
+    "git": "https://github.com/1135447344@qq.com/xc_test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "xc_test/Classes/**/*"
+}
